@@ -27,4 +27,5 @@ The **AWS Management Console** is the web-based dashboard for provisioning and m
 - Media storage, transcoding, and content delivery via CloudFront
 
 ## Screenshot
-*(Insert screenshot of the AWS homepage or Management Console here: `screenshots/aws-homepage.png`)*
+*(<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/a0f22cf9-1770-4acc-94f3-52f6c17521ac" />
+)*
