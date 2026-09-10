@@ -27,4 +27,5 @@ The **Azure Portal** is the primary web-based console, offering a customizable d
 - .NET application hosting and modernization
 
 ## Screenshot
-*(Insert screenshot of the Azure homepage or Azure Portal here: `screenshots/azure-homepage.png`)*
+*(<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/a55c4ebb-f95d-488b-ab13-d822a5152c9a" />
+)*
