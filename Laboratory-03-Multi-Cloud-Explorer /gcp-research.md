@@ -27,4 +27,5 @@ The **Google Cloud Console** is the web-based interface for managing resources, 
 - High-performance computing and scientific workloads
 
 ## Screenshot
-*(Insert screenshot of the GCP homepage or Cloud Console here: `screenshots/gcp-homepage.png`)*
+*(<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/f2611aa5-8beb-486c-ba1a-e1e57295a3bf" />
+)*
