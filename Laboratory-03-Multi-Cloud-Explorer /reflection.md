@@ -16,4 +16,3 @@
 [Mention the new folder/files added, and how your documentation and repo organization have grown since Labs 1 and 2.]
 
 ---
-*Word count target: 250–350 words. Remember to disclose any AI assistance used in brainstorming/organizing this reflection, per the course's Academic Integrity Policy.*
